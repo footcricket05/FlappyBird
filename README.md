@@ -9,7 +9,7 @@ The heart of the project lies in `js/brain.js`, where you'll find the learning l
 
 🎮 **Play and Learn**
 
-No need for external dependencies or installations! You can train and test the game right inside your browser. Witness the bird's journey as it learns to navigate through the pipes. Check it out [website]() and watch the magic happen! ¯\\(ツ)/¯
+No need for external dependencies or installations! You can train and test the game right inside your browser. Witness the bird's journey as it learns to navigate through the pipes. Check it out [website](https://footcricket05.github.io/FlappyBird/) and watch the magic happen! ¯\\(ツ)/¯
 
 🚀 **Fast Learning**
 
@@ -33,4 +33,4 @@ Push to the branch (git push origin feature/AmazingFeature).
 Open a new Pull Request.
 
 📜 **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the `MIT License` - see the LICENSE file for details.
